@@ -7,5 +7,5 @@ Flame has collision detection features built in, so you
 should keep advancing and explore the Flame features once you
 understand the basic concept.
 
-![screenshot](docs/images/screenshot.gif)
+![screenshot](docs/images/screenshot2.gif)
 
