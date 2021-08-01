@@ -9,3 +9,7 @@ understand the basic concept.
 
 ![screenshot](docs/images/screenshot2.gif)
 
+## Video Tutorial
+
+[YouTube](https://youtu.be/udrYX19XOQA)
+
